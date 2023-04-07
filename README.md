@@ -22,5 +22,5 @@ Please refer to the license in the repo.
 
 ## Deployed Application
 
-[Live Website](https://pbullock08.github.io/prework-study-guide/)\
+[Live Website](https://pbullock08.github.io/prework-study-guide/)
 ![image](./assets/images/deployed-app.png)
