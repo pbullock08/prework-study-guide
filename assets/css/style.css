@@ -32,11 +32,12 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
-  }
+}
 
-  .card {
+.card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid  #4F584E;;
+    border: 5px solid #4F584E;
+    ;
     box-shadow: 5px 10px #F4BBB2;
-  }
+}
